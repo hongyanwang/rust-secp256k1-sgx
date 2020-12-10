@@ -1,6 +1,6 @@
 [package]
 
-name = "secp256k1-sgx"
+name = "secp256k1"
 version = "0.1.0"
 authors = [ "Fan Zhang <bl4ck5unxx@gmail.com>" ]
 license = "CC0-1.0"
